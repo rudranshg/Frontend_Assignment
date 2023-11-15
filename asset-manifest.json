@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Frontend-Assignment/static/css/main.659fcac0.css",
+    "main.js": "/Frontend-Assignment/static/js/main.160e5eda.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/Frontend-Assignment/static/js/787.0dc1bfd1.chunk.js",
+    "static/media/icon1.png": "/Frontend-Assignment/static/media/icon1.e92806d9c71b130aeb35.png",
+    "static/media/icon3.png": "/Frontend-Assignment/static/media/icon3.4d06d9b29b3ec1cde663.png",
+    "static/media/icon5.png": "/Frontend-Assignment/static/media/icon5.f78fae039d6252ef7fc1.png",
+    "static/media/icon2.png": "/Frontend-Assignment/static/media/icon2.37607b566d02e100d4b0.png",
+    "static/media/icon4.png": "/Frontend-Assignment/static/media/icon4.4b242a7da0c232906978.png",
+    "static/media/icon.jpeg": "/Frontend-Assignment/static/media/icon.aa5f660c4fffdf364dfa.jpeg",
+    "static/media/online.png": "/Frontend-Assignment/static/media/online.0b1f977cbf3790622bae.png",
+    "static/media/circle.png": "/Frontend-Assignment/static/media/circle.67e454978b600f7369ea.png",
+    "static/media/progress.png": "/Frontend-Assignment/static/media/progress.07532514d931f9d68894.png",
+    "static/media/completed.png": "/Frontend-Assignment/static/media/completed.0cf22d8c3cd6dca0f8ab.png",
+    "static/media/cancel.png": "/Frontend-Assignment/static/media/cancel.d47f0e1ad5abb6bff151.png",
+    "index.html": "/Frontend-Assignment/index.html",
+    "main.659fcac0.css.map": "/Frontend-Assignment/static/css/main.659fcac0.css.map",
+    "main.160e5eda.js.map": "/Frontend-Assignment/static/js/main.160e5eda.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/Frontend-Assignment/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659fcac0.css",
+    "static/js/main.160e5eda.js"
+  ]
+}
